@@ -3,3 +3,4 @@ requests
 websocket-client
 asyncio
 websockets
+logging
